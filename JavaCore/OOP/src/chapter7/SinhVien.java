@@ -9,7 +9,7 @@ public abstract class SinhVien {
 	abstract void TinhDiem();
 	
 	public double getPriceTax() {
-		return this.price * this.tax;
+		return this.price * this.tax; 
 	}
 	
 	public void info() {
