@@ -1,4 +1,4 @@
-package com.nampham.springcoredemo;
+package com.nampham.springcoredemo.common;
 
 public interface Coach {
     String getDailyWorkout();
